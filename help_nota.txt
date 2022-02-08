@@ -1,0 +1,8 @@
+---------------------------------------------------------------------
+execute: " python3 setup.py "
+
+ao executar Este comando
+todos os repositórios e bibliotecas necessárias serão instaladas automaticamente de imediato para quê o script funcione corretamente como planejado e programado.
+Obrigado pela sua atenção!!
+
+-----------------------------------------------------------------------
